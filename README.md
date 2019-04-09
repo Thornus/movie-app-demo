@@ -1,6 +1,6 @@
 ## Movie App
 
-The app is made in React. It's optimized for mobile screens but could work well on desktops too.
+The app is made in React. It's optimized for mobile screens but could work well on desktops too with few additional changes in the code.
 
 ## Instructions
 
