@@ -1,4 +1,4 @@
-
+![Movie App Home Screen](/screenshots/HomeScreen.png) ![Movie App Detail Screen](/screenshots/DetailScreen.png)
 
 ## Movie App
 
@@ -6,7 +6,7 @@ This is a React app that shows the most popular movies taken from the TheMovieDB
 
 Material UI is used as design library.
 
-The app is optimized for mobile screens. If you are on desktop please run it in mobile view or adjust the size of your viewport to a portrait aspect ratio.
+The app is **optimized for mobile screens**. If you are on desktop please run it in mobile view or adjust the size of your viewport to a portrait aspect ratio.
 
 ## Instructions
 
@@ -15,4 +15,4 @@ The app is optimized for mobile screens. If you are on desktop please run it in 
  
 ## Live Demo
 
-You can find a live demo at this link: https://movie-app-b5faa.web.app/
+You can find a live demo at this link: https://movie-app-b5faa.web.app
