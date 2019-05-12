@@ -1,3 +1,5 @@
+
+
 ## Movie App
 
 This is a React app that shows the most popular movies taken from the TheMovieDB API. You can click on each movie poster to see its details.
